@@ -1,12 +1,22 @@
 Fuzzy Gene Regulatory Networks (F-GRN)
 
 F-GRN implements fuzzy c-means clustering algorithm to identify functionally related genes (gene-sets). F-GRN is developed in Matlab as an installable package. F-GRN allows user to identify gene signatures in human monocyte derived dendritic cell responsive to influenza infection. This interactive package is developed by the team of researchers at Thakar Lab located at the University of Rochester Medical Center, Rochester, New York. 
+ 
+ 
+ Files required for running F-GRN package:
+ ================================
+
+ -F_GRN.exe
+ -MCRInstaller.exe  (to be downlaoded from internet automatically during the installtion). 
+
+  NOTE: You will need administrator rights to run F-GRN. 
 
 
 
 Prerequisites for running F-GRN: 
 
-1. If you have Maltab installed: 
+
+1. If you have Matlab installed: 
 
    Verify the MATLAB Runtime is installed and ensure you    
    have installed version 9.0.1 (R2016a).   
@@ -20,28 +30,30 @@ Prerequisites for running F-GRN:
       location of the MATLAB Runtime installer.
 
    (b) run the MATLAB Runtime installer.
+   
 
 2.  If you do not have Matlab: 
+   
+   For convenience, Matlab Runtime compiler has been embedded with F-GRN as a single package that installs both FGRN and Matlab
+   compiler. (No further download/installation is needed for Matlab compiler). 
 
-    Download the Windows 64-bit version of the MATLAB Runtime for R2016a 
-    from the MathWorks Web site by navigating to:
+   During the installation of F-GRN, you will be automatically redirected to Matlab server for downloading and installation of
+   Windows 64-bit version of the MATLAB Runtime for R2016a from the MathWorks Web site.
+   
+   Please be patient during the installation process as it may take several minutes depending on your speed and connection. 
+   Matlab Runtime compiler is about ~900Mb in size that is downloaded and installed during the installation of 'F-GRN.exe'.     
+
+   
+    For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
+    see Package and Distribute in the MATLAB Compiler documentation in the MathWorks Documentation Center.    
 
     http://www.mathworks.com/products/compiler/mcr/index.html
+
    
-   
-    For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
-    Package and Distribute in the MATLAB Compiler documentation  
-    in the MathWorks Documentation Center.    
 
 
-    NOTE: You will need administrator rights to run MCRInstaller. 
 
 
-    Files required to run F-GRN package:
-
-    ================================
-    -F_GRN.exe
-    -MCRInstaller.exe  (to be downlaoded from internet). 
 
 
 
