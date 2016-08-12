@@ -16,7 +16,7 @@ Other interesting projects of Thakar Lab can be accessed at: http://www.bio-netw
  ================================
 
  -F_GRN.exe
- -MCRInstaller.exe  (to be downlaoded from internet automatically during the installtion). 
+ -MCRInstaller.exe  (to be downloaded from internet automatically during the installation). 
 
   NOTE: You will need administrator rights to run F-GRN. 
 
