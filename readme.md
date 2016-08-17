@@ -1,10 +1,10 @@
-Fuzzy Gene Regulatory Networks (F-GRN)
+Fuzzy Gene Regulatory Networks (FGRN)
 
 ![image](https://cloud.githubusercontent.com/assets/21067499/17739719/02c17eee-6464-11e6-83da-39bf41739650.png)
 
 
 
-F-GRN implements fuzzy c-means clustering algorithm to identify functionally related genes (gene-sets). F-GRN is developed in Matlab as an installable package. F-GRN allows user to identify gene signatures in human monocyte derived dendritic cell responsive to influenza infection. This interactive package is developed by Thakar Lab located at the University of Rochester Medical Center, Rochester, New York. For futher information regarding F-GRN, please contact: 
+F-GRN implements fuzzy c-means clustering algorithm to identify functionally related genes (gene-sets). FGRN is developed in Matlab as an installable package. F-GRN allows user to identify gene signatures in human monocyte derived dendritic cell responsive to influenza infection. This interactive package is developed by Thakar Lab located at the University of Rochester Medical Center, Rochester, New York. For futher information regarding FGRN, please contact: 
 
  
 Dr. Juilee Thakar 
@@ -26,7 +26,7 @@ Other interesting projects of Thakar Lab can be accessed at: http://www.bio-netw
  ================================
  
  
- Files required for running F-GRN package:
+ Files required for running FGRN package:
  
  
  -F_GRN.exe
@@ -39,7 +39,7 @@ Other interesting projects of Thakar Lab can be accessed at: http://www.bio-netw
 
 
 
-Prerequisites for running F-GRN: 
+Prerequisites for running FGRN: 
 
 
 1. If you have Matlab installed: 
@@ -64,14 +64,14 @@ Prerequisites for running F-GRN:
 2.  If you do not have Matlab: 
    
 
-   For convenience, Matlab Runtime compiler has been embedded with F-GRN as a single package that installs both FGRN and Matlab
+   For convenience, Matlab Runtime compiler has been embedded with FGRN as a single package that installs both FGRN and Matlab
    compiler. (No further download/installation is needed for Matlab compiler). 
 
-   During the installation of F-GRN, you will be automatically redirected to Matlab server for downloading and installation of
+   During the installation of FGRN, you will be automatically redirected to Matlab server for downloading and installation of
    Windows 64-bit version of the MATLAB Runtime for R2016a from the MathWorks Web site.
    
    Please be patient during the installation process as it may take several minutes depending on your speed and connection. 
-   Matlab Runtime compiler is about ~900Mb in size that is downloaded and installed during the installation of 'F-GRN.exe'.     
+   Matlab Runtime compiler is about ~900Mb in size that is downloaded and installed during the installation of 'FGRN.exe'.     
 
    
     For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
